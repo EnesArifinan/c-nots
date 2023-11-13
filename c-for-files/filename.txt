@@ -1,0 +1,2 @@
+Hi this is manupulating a file with c programing languice
+Hi agein me :)
